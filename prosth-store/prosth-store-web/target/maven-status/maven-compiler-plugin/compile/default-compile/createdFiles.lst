@@ -1,0 +1,8 @@
+ec\edu\espe\distribuidas\prosth\web\util\FacesUtil.class
+ec\edu\espe\distribuidas\prosth\web\BaseBean.class
+ec\edu\espe\distribuidas\prosth\web\ModoPagoBean.class
+ec\edu\espe\distribuidas\prosth\web\ProveedorBean.class
+ec\edu\espe\distribuidas\prosth\web\CategoriaBean.class
+ec\edu\espe\distribuidas\prosth\web\TipoUsuarioBean.class
+ec\edu\espe\distribuidas\prosth\web\util\MensajesGenericos.class
+ec\edu\espe\distribuidas\prosth\web\ConductorBean.class
