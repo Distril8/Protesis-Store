@@ -59,6 +59,7 @@ public class ProveedorBean extends BaseBean implements Serializable {
         super.modificar();
         this.proveedor = new Proveedor();
         this.proveedor.setCodigo(this.proveedorSel.getCodigo());
+        this.proveedor.setNombre(this.proveedorSel.getNombre());
         this.proveedor.setDescripcion(this.proveedorSel.getDescripcion());
     }
     
